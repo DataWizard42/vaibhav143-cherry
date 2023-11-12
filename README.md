@@ -1,4 +1,5 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://miro.medium.com/max/3618/1*Qd3LS4-aq7CvG-oIXlhi2A.gif))]
+[![MasterHead](h[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io))]
+
 
 <h1 align="center">Hi 👋, I'm VAIBHAV</h1>
 <h3 align="center">A passionate data scientist from India</h3>
