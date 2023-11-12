@@ -1,4 +1,4 @@
-![MasterHead]([https://th.bing.com/th/id/OIP.FLafZUSPglIUbu8wbWaN4gHaC1?pid=ImgDet&rs=1](https://th.bing.com/th/id/OIP.GLRtRsCRfdBQDVA5O3BBSwHaD4?pid=ImgDet&w=1809&h=949&rs=1)]
+![MasterHead][https://th.bing.com/th/id/OIP.FLafZUSPglIUbu8wbWaN4gHaC1?pid=ImgDet&rs=1]
 
 <h1 align="center">Hi 👋, I'm VAIBHAV</h1>
 <h3 align="center">A passionate data scientist from India</h3>
